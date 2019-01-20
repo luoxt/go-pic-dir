@@ -1,0 +1,228 @@
+2019/01/16 21:37:30.061 [D] [Models.go:10]  【注册数据库】 
+2019/01/16 21:37:30.116 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/16 21:37:31.211 [E] [cache.go:93]  【连接redis失败】 dial tcp 192.168.2.101:6379: connectex: No connection could be made because the target machine actively refused it. 
+2019/01/16 21:37:31.277 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/16 21:39:06.071 [D] [Models.go:10]  【注册数据库】 
+2019/01/16 21:39:06.078 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/16 21:39:07.085 [E] [cache.go:93]  【连接redis失败】 dial tcp 192.168.2.101:6379: connectex: No connection could be made because the target machine actively refused it. 
+2019/01/16 21:39:07.172 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/16 21:40:24.899 [D] [Models.go:10]  【注册数据库】 
+2019/01/16 21:40:24.910 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/16 21:40:25.911 [E] [cache.go:93]  【连接redis失败】 dial tcp 192.168.2.101:6379: connectex: No connection could be made because the target machine actively refused it. 
+2019/01/16 21:40:25.998 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/16 21:40:26.000 [C] [asm_amd64.s:1333]  ListenAndServe:  listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2019/01/16 21:40:40.895 [D] [Models.go:10]  【注册数据库】 
+2019/01/16 21:40:40.902 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/16 21:40:41.903 [E] [cache.go:93]  【连接redis失败】 dial tcp 192.168.2.101:6379: connectex: No connection could be made because the target machine actively refused it. 
+2019/01/16 21:40:41.949 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/16 21:40:41.950 [C] [asm_amd64.s:1333]  ListenAndServe:  listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2019/01/16 21:40:42.999 [D] [Models.go:10]  【注册数据库】 
+2019/01/16 21:40:43.011 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/16 21:40:44.011 [E] [cache.go:93]  【连接redis失败】 dial tcp 192.168.2.101:6379: connectex: No connection could be made because the target machine actively refused it. 
+2019/01/16 21:40:44.105 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/16 21:40:44.106 [C] [asm_amd64.s:1333]  ListenAndServe:  listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2019/01/16 21:40:48.682 [D] [Models.go:10]  【注册数据库】 
+2019/01/16 21:40:48.689 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/16 21:40:49.693 [E] [cache.go:93]  【连接redis失败】 dial tcp 192.168.2.101:6379: connectex: No connection could be made because the target machine actively refused it. 
+2019/01/16 21:40:49.736 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/16 21:40:49.737 [C] [asm_amd64.s:1333]  ListenAndServe:  listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2019/01/16 21:40:50.314 [D] [Models.go:10]  【注册数据库】 
+2019/01/16 21:40:50.321 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/16 21:40:51.327 [E] [cache.go:93]  【连接redis失败】 dial tcp 192.168.2.101:6379: connectex: No connection could be made because the target machine actively refused it. 
+2019/01/16 21:40:51.436 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/16 21:40:51.438 [C] [asm_amd64.s:1333]  ListenAndServe:  listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2019/01/16 21:41:12.040 [D] [Models.go:10]  【注册数据库】 
+2019/01/16 21:41:12.047 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/16 21:41:13.043 [E] [cache.go:93]  【连接redis失败】 dial tcp 192.168.2.101:6379: connectex: No connection could be made because the target machine actively refused it. 
+2019/01/16 21:41:13.130 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/16 21:43:29.738 [D] [Models.go:10]  【注册数据库】 
+2019/01/16 21:43:29.745 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/16 21:43:30.751 [E] [cache.go:93]  【连接redis失败】 dial tcp 192.168.2.101:6379: connectex: No connection could be made because the target machine actively refused it. 
+2019/01/16 21:43:30.856 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/16 21:48:28.347 [D] [Models.go:10]  【注册数据库】 
+2019/01/16 21:48:28.355 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/16 21:48:29.359 [E] [cache.go:93]  【连接redis失败】 dial tcp 192.168.2.101:6379: connectex: No connection could be made because the target machine actively refused it. 
+2019/01/16 22:05:07.847 [D] [Models.go:10]  【注册数据库】 
+2019/01/16 22:05:07.854 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/16 22:06:04.599 [D] [Models.go:10]  【注册数据库】 
+2019/01/16 22:06:04.606 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/16 22:06:04.653 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/16 22:07:10.014 [D] [Models.go:10]  【注册数据库】 
+2019/01/16 22:07:10.043 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/16 22:07:10.094 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/16 22:07:50.114 [D] [Models.go:10]  【注册数据库】 
+2019/01/16 22:07:50.121 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/16 22:07:50.165 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/16 22:08:53.470 [D] [Models.go:10]  【注册数据库】 
+2019/01/16 22:08:53.484 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/16 22:08:53.530 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/16 22:09:24.891 [D] [Models.go:10]  【注册数据库】 
+2019/01/16 22:09:24.899 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/16 22:09:24.947 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/16 22:12:20.742 [D] [Models.go:10]  【注册数据库】 
+2019/01/16 22:12:20.749 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/16 22:12:20.796 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/16 22:42:10.924 [D] [Models.go:10]  【注册数据库】 
+2019/01/16 22:42:10.931 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/16 22:42:10.981 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/16 22:42:10.982 [C] [asm_amd64.s:1333]  ListenAndServe:  listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2019/01/16 22:43:33.515 [D] [Models.go:10]  【注册数据库】 
+2019/01/16 22:43:33.523 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/16 22:43:33.570 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/16 22:57:35.709 [D] [Models.go:10]  【注册数据库】 
+2019/01/16 22:57:35.717 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/16 22:57:35.771 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/18 21:45:45.850 [D] [Models.go:10]  【注册数据库】 
+2019/01/18 21:45:45.857 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/18 21:45:45.916 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/18 21:46:02.956 [D] [Models.go:10]  【注册数据库】 
+2019/01/18 21:46:02.963 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/18 21:46:03.010 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/18 21:46:03.023 [C] [asm_amd64.s:1333]  ListenAndServe:  listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2019/01/18 21:46:07.943 [D] [Models.go:10]  【注册数据库】 
+2019/01/18 21:46:07.943 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/18 21:46:08.004 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/18 21:46:08.005 [C] [asm_amd64.s:1333]  ListenAndServe:  listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2019/01/18 21:46:09.006 [D] [Models.go:10]  【注册数据库】 
+2019/01/18 21:46:09.022 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/18 21:46:09.069 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/18 21:46:09.069 [C] [asm_amd64.s:1333]  ListenAndServe:  listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2019/01/18 21:46:10.057 [D] [Models.go:10]  【注册数据库】 
+2019/01/18 21:46:10.078 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/18 21:46:10.124 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/18 21:46:10.125 [C] [asm_amd64.s:1333]  ListenAndServe:  listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2019/01/18 21:46:25.510 [D] [Models.go:10]  【注册数据库】 
+2019/01/18 21:46:25.526 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/18 21:46:25.562 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/18 21:46:25.562 [C] [asm_amd64.s:1333]  ListenAndServe:  listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2019/01/18 21:46:33.039 [D] [Models.go:10]  【注册数据库】 
+2019/01/18 21:46:33.056 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/18 21:46:33.101 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/18 21:46:33.102 [C] [asm_amd64.s:1333]  ListenAndServe:  listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2019/01/18 21:46:57.823 [D] [Models.go:10]  【注册数据库】 
+2019/01/18 21:46:57.829 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/18 21:46:57.876 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/18 21:46:57.877 [C] [asm_amd64.s:1333]  ListenAndServe:  listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2019/01/18 21:48:04.092 [D] [Models.go:10]  【注册数据库】 
+2019/01/18 21:48:04.113 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/18 21:48:04.160 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/18 21:48:04.161 [C] [asm_amd64.s:1333]  ListenAndServe:  listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2019/01/18 21:48:07.326 [D] [Models.go:10]  【注册数据库】 
+2019/01/18 21:48:07.334 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/18 21:48:07.384 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/18 21:48:07.385 [C] [asm_amd64.s:1333]  ListenAndServe:  listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2019/01/18 21:55:54.682 [D] [Models.go:10]  【注册数据库】 
+2019/01/18 21:55:54.688 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/18 21:55:54.735 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/18 22:00:27.518 [D] [Models.go:10]  【注册数据库】 
+2019/01/18 22:00:27.525 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/18 22:00:27.572 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/18 22:00:27.573 [C] [asm_amd64.s:1333]  ListenAndServe:  listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2019/01/18 22:02:27.295 [D] [Models.go:10]  【注册数据库】 
+2019/01/18 22:02:27.302 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/18 22:02:27.347 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/18 22:02:27.348 [C] [asm_amd64.s:1333]  ListenAndServe:  listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2019/01/18 22:02:52.094 [D] [Models.go:10]  【注册数据库】 
+2019/01/18 22:02:52.100 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/18 22:02:52.146 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/18 22:02:52.147 [C] [asm_amd64.s:1333]  ListenAndServe:  listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2019/01/18 22:02:54.622 [D] [Models.go:10]  【注册数据库】 
+2019/01/18 22:02:54.628 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/18 22:02:54.676 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/18 22:02:54.677 [C] [asm_amd64.s:1333]  ListenAndServe:  listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2019/01/18 22:04:03.649 [D] [Models.go:10]  【注册数据库】 
+2019/01/18 22:04:03.659 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/18 22:04:03.706 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/18 22:04:03.707 [C] [asm_amd64.s:1333]  ListenAndServe:  listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2019/01/18 22:05:20.271 [D] [Models.go:10]  【注册数据库】 
+2019/01/18 22:05:20.280 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/18 22:05:20.326 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/18 22:05:20.327 [C] [asm_amd64.s:1333]  ListenAndServe:  listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2019/01/18 22:06:05.338 [D] [Models.go:10]  【注册数据库】 
+2019/01/18 22:06:05.345 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/18 22:06:05.390 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/18 22:06:05.391 [C] [asm_amd64.s:1333]  ListenAndServe:  listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2019/01/18 22:07:13.023 [D] [Models.go:10]  【注册数据库】 
+2019/01/18 22:07:13.030 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/18 22:07:13.075 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/18 22:07:13.076 [C] [asm_amd64.s:1333]  ListenAndServe:  listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2019/01/18 22:07:51.206 [D] [Models.go:10]  【注册数据库】 
+2019/01/18 22:07:51.215 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/18 22:07:51.261 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/18 22:10:00.164 [D] [Models.go:10]  【注册数据库】 
+2019/01/18 22:10:00.171 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/18 22:10:00.216 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/18 22:10:00.217 [C] [asm_amd64.s:1333]  ListenAndServe:  listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2019/01/18 22:10:18.647 [D] [Models.go:10]  【注册数据库】 
+2019/01/18 22:10:18.658 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/18 22:10:18.711 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/18 22:10:46.701 [D] [Models.go:10]  【注册数据库】 
+2019/01/18 22:10:46.708 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/18 22:10:46.755 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/18 22:10:46.755 [C] [asm_amd64.s:1333]  ListenAndServe:  listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2019/01/18 22:11:18.623 [D] [Models.go:10]  【注册数据库】 
+2019/01/18 22:11:18.630 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/18 22:11:18.683 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/18 22:11:18.684 [C] [asm_amd64.s:1333]  ListenAndServe:  listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2019/01/18 22:11:25.677 [D] [Models.go:10]  【注册数据库】 
+2019/01/18 22:11:25.687 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/18 22:11:25.734 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/18 22:12:26.858 [D] [Models.go:10]  【注册数据库】 
+2019/01/18 22:12:26.870 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/18 22:12:26.915 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/18 22:52:17.246 [D] [Models.go:10]  【注册数据库】 
+2019/01/18 22:52:17.251 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/18 22:52:17.303 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/18 22:52:17.304 [C] [asm_amd64.s:1333]  ListenAndServe:  listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2019/01/18 22:52:51.185 [D] [Models.go:10]  【注册数据库】 
+2019/01/18 22:52:51.194 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/18 22:52:51.239 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/18 22:55:18.229 [D] [Models.go:10]  【注册数据库】 
+2019/01/18 22:55:18.237 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/18 22:55:18.281 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/18 22:55:18.282 [C] [asm_amd64.s:1333]  ListenAndServe:  listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2019/01/18 22:55:29.515 [D] [Models.go:10]  【注册数据库】 
+2019/01/18 22:55:29.521 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/18 22:55:29.574 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/18 23:01:15.054 [D] [Models.go:10]  【注册数据库】 
+2019/01/18 23:01:15.061 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/18 23:01:15.105 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/18 23:01:15.106 [C] [asm_amd64.s:1333]  ListenAndServe:  listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2019/01/18 23:01:27.795 [D] [Models.go:10]  【注册数据库】 
+2019/01/18 23:01:27.805 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/18 23:01:27.851 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/18 23:01:27.852 [C] [asm_amd64.s:1333]  ListenAndServe:  listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2019/01/18 23:01:37.321 [D] [Models.go:10]  【注册数据库】 
+2019/01/18 23:01:37.327 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/18 23:01:37.374 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/18 23:02:32.545 [D] [Models.go:10]  【注册数据库】 
+2019/01/18 23:02:32.551 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/18 23:02:32.595 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/18 23:03:13.734 [D] [Models.go:10]  【注册数据库】 
+2019/01/18 23:03:13.740 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/18 23:03:13.786 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/18 23:03:13.787 [C] [asm_amd64.s:1333]  ListenAndServe:  listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2019/01/18 23:03:25.794 [D] [Models.go:10]  【注册数据库】 
+2019/01/18 23:03:25.800 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/18 23:03:25.845 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/18 23:05:27.839 [D] [Models.go:10]  【注册数据库】 
+2019/01/18 23:05:27.846 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/18 23:05:27.891 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/18 23:05:27.893 [C] [asm_amd64.s:1333]  ListenAndServe:  listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2019/01/18 23:05:38.271 [D] [Models.go:10]  【注册数据库】 
+2019/01/18 23:05:38.278 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/18 23:05:38.324 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/18 23:05:38.325 [C] [asm_amd64.s:1333]  ListenAndServe:  listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2019/01/18 23:06:37.481 [D] [Models.go:10]  【注册数据库】 
+2019/01/18 23:06:37.492 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/18 23:06:37.537 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/18 23:06:37.538 [C] [asm_amd64.s:1333]  ListenAndServe:  listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2019/01/18 23:37:27.190 [D] [Models.go:10]  【注册数据库】 
+2019/01/18 23:37:27.196 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/18 23:37:27.243 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/18 23:40:16.781 [D] [Models.go:10]  【注册数据库】 
+2019/01/18 23:40:16.787 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/18 23:40:16.834 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/18 23:41:59.348 [D] [Models.go:10]  【注册数据库】 
+2019/01/18 23:41:59.356 [D] [cache.go:100]  【初始化REDIS】 
+2019/01/18 23:41:59.401 [I] [asm_amd64.s:1333]  http server Running on http://:8080
