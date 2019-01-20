@@ -33,10 +33,6 @@ func RegisterTask()  {
 func Dotask(bpath string)  {
 	//sec := 5*time.Second
 	//time.Sleep(sec)
-	//fmt.Println("罗雨涵，你好呀！")
-	//fmt.Println("罗宇康，你好呀！")
-	//fmt.Println("邹利萍，你好呀！")
-
 	filepath.Walk(bpath,
 		func(path string, f os.FileInfo, err error) error {
 			if f == nil {

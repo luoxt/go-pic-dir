@@ -1,5 +1,5 @@
 #!/bin/bash
-#检查箱码生成二维码服务是否正常
+#检查服务
 NUM=`ps -ef | grep go-pic-dir | grep -v grep | wc -l`
 echo $NUM
 if [ $NUM -ne 0 ]
